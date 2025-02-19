@@ -80,7 +80,7 @@ HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH*/
 	top: 0;
 	left: 0;
     z-index: 9999;
-	background: linear-gradient(50deg, rgb(49, 102, 25), rgb(101, 153, 112));
+	background: linear-gradient(50deg,rgb(56, 153, 12), rgb(47, 231, 87));
 }
 .overlay .overlay-close {
     width: 50px;
@@ -183,7 +183,7 @@ HH				Header
 HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH*/
 .header{
 	height: 100vh;
-	background: linear-gradient(50deg, rgb(49, 102, 25), rgb(101, 153, 112));
+	background: linear-gradient(50deg, rgb(56, 153, 12), rgb(47, 231, 87));
     padding: 45px 0px;
 }
 #logo {
