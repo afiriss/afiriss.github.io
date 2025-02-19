@@ -80,7 +80,7 @@ HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH*/
 	top: 0;
 	left: 0;
     z-index: 9999;
-	background: linear-gradient(50deg, rgb(9, 226, 38), rgb(4, 226, 115));
+	background: linear-gradient(50deg, rgb(81, 255, 182), rgb(87, 160, 255));
 }
 .overlay .overlay-close {
     width: 50px;
