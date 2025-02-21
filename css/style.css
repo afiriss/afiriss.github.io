@@ -730,7 +730,7 @@ HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH*/
 #pricing{
     position: relative;
     height: 100%;
-    background: linear-gradient(50deg, rgb(81, 255, 182), rgb(87, 160, 255));
+    background: linear-gradient(50deg, rgb(47, 72, 92), rgb(48, 77, 116));
 }
 ul.pricing-table {
     display:block;
@@ -847,13 +847,13 @@ ul.pricing-table a.buy:hover .ion-ios-cart-outline:before {
     content: "\f3d6";
 }
 .bg-color-grad {
-    background:#00aeff;
-    background:-moz-linear-gradient(top,#00aeff 0%,#00e0a4 100%);
+    background:rgb(27, 46, 82);
+    background:-moz-linear-gradient(top,#292e53 0%,#214239 100%);
     background:-webkit-gradient(linear,left top,left bottom,color-stop(0%,#00aeff),color-stop(100%,#00e0a4));
-    background:-webkit-linear-gradient(top,#00aeff 0%,#00e0a4 100%);
-    background:-o-linear-gradient(top,#00aeff 0%,#00e0a4 100%);
-    background:-ms-linear-gradient(top,#00aeff 0%,#00e0a4 100%);
-    background:linear-gradient(to bottom,#00aeff 0%,#00e0a4 100%);
+    background:-webkit-linear-gradient(top,#272544 0%,#28443d 100%);
+    background:-o-linear-gradient(top,#292c4b 0%,#2e3f4b 100%);
+    background:-ms-linear-gradient(top,#2b2b49 0%,#36554d 100%);
+    background:linear-gradient(to bottom,#373c57 0%,#2e4b43 100%);
     filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#00aeff',endColorstr='#00e0a4',GradientType=0 );
 }
 
