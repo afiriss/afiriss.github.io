@@ -183,7 +183,7 @@ HH				Header
 HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH*/
 .header{ 
 	height: 100vh;
-	background: linear-gradient(50deg, rgb(13, 82, 72), rgb(32, 101, 122)); 
+	background: linear-gradient(50deg, rgb(44, 39, 90), rgb(33, 56, 107)); 
     padding: 45px 0px;
 }
 #logo {
@@ -673,7 +673,7 @@ ul.social-icon li a {
 HH 				Testimonial
 HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH*/
 #testimonial{
-	background: linear-gradient(50deg, rgb(81, 255, 182), rgb(87, 160, 255));
+	background: linear-gradient(50deg, rgb(27, 46, 82), rgb(26, 56, 95));
     color: white;
     padding: 100px 0px;
     /*position: relative;*/
