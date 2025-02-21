@@ -927,7 +927,7 @@ HH              Footer Section
 HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH*/
 
 #footer {
-    background: linear-gradient(180deg, rgb(27, 46, 82), rgb(87, 160, 255));
+    /*background: linear-gradient(180deg, rgb(0, 190, 111), rgb(87, 160, 255));*/
     background-color: rgb(27, 46, 82);
     color:white;
     padding:40px 0;
