@@ -13,7 +13,7 @@ body{
 }
 .top{
     display: none;
-    background: rgb(33, 84, 100);
+    background: rgb(27, 46, 82);
     color: #fff;
     padding: 5px 10px;
     font-size: 22px;
@@ -27,7 +27,7 @@ body{
     transition: 2s;
 }
 .top:hover{
-    background: rgb(52, 82, 121);
+    background: rgb(27, 46, 82);
 }
 h1{
 	font-weight: 100;
