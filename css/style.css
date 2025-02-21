@@ -14,7 +14,7 @@ body{
 .top{
     display: none;
     background: rgb(27, 46, 82);
-    color: #fff;
+    color: #959a9bbe;
     padding: 5px 10px;
     font-size: 22px;
     position: fixed;
@@ -80,7 +80,7 @@ HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH*/
 	top: 0;
 	left: 0;
     z-index: 9999;
-	background: linear-gradient(50deg,rgb(26, 110, 110), rgb(39, 96, 150));
+	background: linear-gradient(50deg,rgb(27, 46, 82), rgb(39, 96, 150));
 }
 .overlay .overlay-close {
     width: 50px;
@@ -122,7 +122,7 @@ HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH*/
 .overlay ul li a {
 	font-weight: 300;
 	display: block;
-	color: #fff;
+	color: #918f8fcc;
 	-webkit-transition: color 0.2s;
 	transition: color 0.2s;
 }
@@ -174,7 +174,7 @@ HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH*/
     width:100%;
     height:100%;
     overflow:visible;
-    background: #fff url('../img/Intersection.gif') no-repeat center center;
+    background: #ffffffab url('../img/Intersection.gif') no-repeat center center;
     background-size: 100px 100px;
     }
 
@@ -183,14 +183,14 @@ HH				Header
 HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH*/
 .header{ 
 	height: 100vh;
-	background: linear-gradient(50deg, rgb(44, 39, 90), rgb(33, 56, 107)); 
+	background: linear-gradient(50deg, rgb(27, 46, 82), rgb(33, 56, 107)); 
     padding: 45px 0px;
 }
 #logo {
 	font-size: 80px;
 	letter-spacing: 10px;
 	font-weight: 100;
-	color: white;
+	color: rgba(255, 255, 255, 0.603);
 	display: inline-block;
 	padding: 0px;
     float: none;
@@ -209,7 +209,7 @@ a#logo:hover{
 }
 .fixed {
     position: fixed;
-    background: rgb(32, 53, 80);
+    background: rgb(27, 46, 82);;
     top: 0;
     z-index: 99;
     transition: 1s;
@@ -238,13 +238,13 @@ a#logo:hover{
 	padding: 0px 12px;
 }
 .nav-button button:hover{
-	color: rgb(87, 160, 255);
+	color: rgb(27, 46, 82);;
 	background-color: white;
 }
 .navbar-white {
       background-color: #fff !important;
       transition: background 0.5s ease-out;
-      box-shadow: 0px 0px 10px #39c;
+      box-shadow: 0px 0px 10px rgb(27, 46, 82);;
 }
 .starting img{
 	margin-top: 110px;
