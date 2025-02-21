@@ -13,7 +13,7 @@ body{
 }
 .top{
     display: none;
-    background: rgb(81, 255, 182);
+    background: rgb(33, 84, 100);
     color: #fff;
     padding: 5px 10px;
     font-size: 22px;
@@ -27,7 +27,7 @@ body{
     transition: 2s;
 }
 .top:hover{
-    background: rgb(87, 160, 255);
+    background: rgb(52, 82, 121);
 }
 h1{
 	font-weight: 100;
@@ -80,7 +80,7 @@ HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH*/
 	top: 0;
 	left: 0;
     z-index: 9999;
-	background: linear-gradient(50deg,rgb(26, 110, 110), rgb(47, 142, 231));
+	background: linear-gradient(50deg,rgb(26, 110, 110), rgb(39, 96, 150));
 }
 .overlay .overlay-close {
     width: 50px;
