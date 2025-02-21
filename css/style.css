@@ -181,9 +181,9 @@ HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH*/
 /*HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
 HH				Header
 HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH*/
-.header{
+.header{ 
 	height: 100vh;
-	background: linear-gradient(50deg, rgb(56, 153, 12), rgb(47, 231, 87));
+	background: linear-gradient(50deg, rgb(12, 99, 87), rgb(32, 101, 122)); 
     padding: 45px 0px;
 }
 #logo {
