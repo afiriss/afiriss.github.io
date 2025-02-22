@@ -849,7 +849,7 @@ ul.pricing-table a.buy:hover .ion-ios-cart-outline:before {
 .bg-color-grad {
     background:rgb(27, 46, 82);
     background:-moz-linear-gradient(top,rgb(27, 46, 82) 0%,#214239 100%);
-    background:-webkit-gradient(linear,left top,left bottom,color-stop(0%,rgb(27, 46, 82),color-stop(100%,#2b2d42));
+    /*background:-webkit-gradient(linear,left top,left bottom, color-stop(0%,rgb(27, 46, 82),color-stop(100%,#2b2d42));*/
     background:-webkit-linear-gradient(top,rgb(27, 46, 82) 0%,#28443d 100%);
     background:-o-linear-gradient(top,rgb(27, 46, 82) 0%,#2e3f4b 100%);
     background:-ms-linear-gradient(top,rgb(27, 46, 82) 0%,#305249 100%);
