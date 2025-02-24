@@ -684,9 +684,9 @@ HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH*/
 #testimonial hr{
     border-color: white;
 }
-/*.item .test-img{
-    width: 100px;
-}*/
+.item .test-img{
+    width: 300px;
+}/* NÃO MECHE NESTA CARALIAA!!!
 .owl-theme .owl-controls .owl-page span {
     border: 1px solid white;
     border-radius: 100%;
@@ -696,14 +696,15 @@ HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH*/
     padding: 0px;
     margin: 0px;
     background-color: #eee;
-}
-.owl-theme .owl-controls .owl-page{
-    border-radius: 100%;
+}*/
+/*.owl-theme .owl-controls .owl-page{
+   border-radius: 100%;
     border: 2px solid #fff;
-    margin: 10px;
-   /* position: absolute;
-    top: -25px;*/
-}
+    margin: 10px; 
+    ESSA PARTE ABAIXO ESTAVA EM COMENTÁRIO
+    position: absolute;
+    top: -25px;
+}*/
 .owl-theme .owl-controls .owl-page span:hover{
     background-color: transparent;
 }
@@ -711,15 +712,15 @@ HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH*/
     background-color: transparent;
 }
 .owl-theme .owl-controls .owl-page:nth-child(1) {
-    background: url(../img/test1.png) center ;
+    background: url(../img/whalterft.png) center ;
     background-size: 100px 100px;
 }
 .owl-theme .owl-controls .owl-page:nth-child(2) {
-    background: url(../img/test2.png) center;
+    background: url(../img/Gilbertft.jpeg) center;
     background-size: 100px 100px;
 }
 .owl-theme .owl-controls .owl-page:nth-child(3) {
-    background: url(../img/test3.png) center;
+    background: url(../img/Irvingft.png) center;
     background-size: 100px 100px;
 }
 
