@@ -11,7 +11,7 @@ body{
 	font-family: Raleway;
     position: relative;
 }
-.top{
+.top{   
     display: none;
     background: rgb(27, 46, 82);
     color: #fff;
@@ -716,7 +716,7 @@ HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH*/
     background-size: 100px 100px;
 }
 .owl-theme .owl-controls .owl-page:nth-child(2) {
-    background: url(../img/Gilbertft.jpeg) center;
+    background: url(../img/gilbertft.png) center;
     background-size: 100px 100px;
 }
 .owl-theme .owl-controls .owl-page:nth-child(3) {
